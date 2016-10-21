@@ -13,7 +13,7 @@ r = 5 ** 3      #Valor do raio elevado a 3:  (5 ** 3) => 125
 
 v = 4 * pi * r  #Calculo v = 1570
 
-volume = v / 3       #v / 3 = 523.3 
+volume = v / 3       #1570 / 3 = 523.3 
 
 print (volume)      #523.3 Litros
 
